@@ -28,12 +28,12 @@ Consecutive Wet Days
 ![CWD](./img/cwd.png)
 
 ### Land Surface Temperature
-Script: [lst-explorer.js]((https://github.com/bennyistanto/gee/blob/master/script/lst-explorer.js))
+Script: [lst-explorer.js](https://github.com/bennyistanto/gee/blob/master/script/lst-explorer.js)
 
 ![LST-explorer](./img/lst-explorer.png)
 
 ### Nitrogen Dioxide
-Script: [no2-emission.js]((https://github.com/bennyistanto/gee/blob/master/script/no2-emission.js))
+Script: [no2-emission.js](https://github.com/bennyistanto/gee/blob/master/script/no2-emission.js)
 
 ![NO2-emission](./img/no2-emission.png)
 
