@@ -1,7 +1,7 @@
 # Google Earth Engine script collection from my past and current works. 
 Compiled from various source: [GEE Help](https://developers.google.com/earth-engine/), [StackExchange](https://gis.stackexchange.com/questions/tagged/google-earth-engine), [GEE Google Groups](https://groups.google.com/forum/#!forum/google-earth-engine-developers).
 
-This is a fork repository from https://github.com/bennyistanto/gee which originally developed during my service with WFP, and since I left the agency this guideline no longer maintained. So I will continue to update this at my personal Github repo.
+This is a fork repository from https://github.com/wfpidn/GEE which originally developed during my service with WFP, and since I left the agency this guideline no longer maintained. So I will continue to update this at my personal Github repo.
 
 ------------
 
